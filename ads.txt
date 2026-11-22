@@ -1,0 +1,2 @@
+# Do not add a made-up publisher ID.
+# After an ad network approves your site, copy the exact ads.txt line it provides here.

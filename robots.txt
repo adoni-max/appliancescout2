@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+# Replace YOUR-DOMAIN.example after choosing your public domain.
+Sitemap: https://YOUR-DOMAIN.example/sitemap.xml
